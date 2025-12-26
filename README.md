@@ -22,7 +22,10 @@ Kubernetes • Docker • Grafana • MinIO • Terraform
 **Cloud**  
 AWS (SageMaker, Bedrock, Lambda, ECS, S3)
 
-**Language**  
+**LLM / AI Framework**
+LangChain • LangGraph • Claude API • OpenAI API
+
+**Language**
 Python
 
 ---
